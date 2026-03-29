@@ -5,17 +5,18 @@
 </p>
 
 <h1 align="center">Danki Impact Scoring</h1>
-https://adeline-hub.github.io/danki-impact-scoring/report/app.html
 <p align="center">
+  https://adeline-hub.github.io/danki-impact-scoring/report/app.html
+  
   A social-first impact scoring framework for investment due diligence<br/>
   8 dimensions · 5 EU regulatory frameworks · 2,000 synthetic benchmarks · ML-ready
 </p>
 
 <p align="center">
-  <a href="https://adeline-hub.github.io/danki-impact-scoring/">
+  <a href="https://adeline-hub.github.io/danki-impact-scoring/report/app.html">
     <img src="https://img.shields.io/badge/Whitepaper-Live-blue?logo=quarto" alt="Whitepaper Live"/>
   </a>
-  <a href="https://adeline-hub.github.io/danki-impact-scoring/app.html">
+  <a href="https://adeline-hub.github.io/danki-impact-scoring/report/app.html">
     <img src="https://img.shields.io/badge/Scoring_App-Live-orange?logo=leaflet" alt="Scoring App Live"/>
   </a>
   <a href="LICENSE">
