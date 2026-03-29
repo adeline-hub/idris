@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Danki Impact Scoring</h1>
-
+https://adeline-hub.github.io/danki-impact-scoring/report/app.html
 <p align="center">
   A social-first impact scoring framework for investment due diligence<br/>
   8 dimensions · 5 EU regulatory frameworks · 2,000 synthetic benchmarks · ML-ready
