@@ -132,17 +132,17 @@ The **composite weighted index** is the primary scoring method — fully determi
 danki-impact-scoring/
 ├── data/
 │   └── processed/
-│       └── investment_impacts.csv    ← 2,000-row benchmark dataset
-├── docs/                             ← GitHub Pages output
+│       └── investment_impacts.csv    ← 2,000 synthetic anonymised benchmark dataset
+├── docs/                             
 │   └── assets/
 │       ├── logo.png
 │       └── favicon.ico
 ├── notebooks/
-│   └── eda_marimo.py                 ← exploratory analysis
+│   └── eda_marimo.py                 
 ├── report/
-│   ├── index.qmd                     ← methodology whitepaper
+│   ├── index.qmd                     ← methodology
 │   ├── app.qmd                       ← Danki scoring app
-│   ├── report-style.css              ← shared brand stylesheet
+│   ├── report-style.css              
 │   └── assets/
 │       ├── logo.png
 │       └── favicon.ico
