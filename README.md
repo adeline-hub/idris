@@ -40,6 +40,12 @@
 
 ---
 
+## Organigram
+
+<img src="https://github.com/adeline-hub/danki-impact-scoring/blob/main/docs/danki_scoring_flow.png?raw=true" width="140">
+
+---
+
 ## Deliverables
 
 | Deliverable | Description | Link |
